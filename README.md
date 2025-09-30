@@ -7,12 +7,12 @@ Now, I design and develop applications across the stack, with an emphasis on cle
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-**Backend:** Node.js, Express, Flask, Django
-**Databases:** PostgreSQL, MongoDB, Sequelize, Mongoose
-**Other Tools & Practices:** Git/GitHub, REST APIs, JWT/Auth, Agile, Test-driven development
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express, Flask, Django
+- **Databases:** PostgreSQL, MongoDB,
+- **Other Tools & Practices:** Git/GitHub, REST APIs, JWT/Auth, Agile, Test-driven development
 
 ---
 
@@ -30,7 +30,7 @@ A full-stack music app built with **Flask, PostgreSQL, and React**.
 
 A retro-inspired social media app built with the **MERN stack**.
 
-* Collaborated with a team of 4 developers using Agile workflows.
+* Collaborated with a team of 3 developers using Agile workflows.
 * Organized GitHub branching and pull request rules for clean modular development.
 * Captured the vibe of early 2000s MySpace/Twitter with custom user models and social features.
 
@@ -47,7 +47,7 @@ A retro-inspired social media app built with the **MERN stack**.
 
 ##  Let’s Connect
 
-* [LinkedIn](www.linkedin.com/in/randall-wolfe)
+* [LinkedIn](https://www.linkedin.com/in/randall-wolfe/)
 * [Email](mailto:randall.a.wolfe@gmail.com)
 
 ---
