@@ -18,7 +18,7 @@ Now, I design and develop applications across the stack, with an emphasis on cle
 
 ## Featured Projects
 
-### [POP5](#)
+### [POP5](https://pop5.netlify.app/)
 
 A full-stack music app built with **Flask, PostgreSQL, and React**.
 
@@ -26,7 +26,7 @@ A full-stack music app built with **Flask, PostgreSQL, and React**.
 * Built a clean UI with intuitive list reordering for a smooth UX.
 * Next iteration: caching strategies with Redis for performance optimization.
 
-### [Bleeper](#)
+### [Bleeper](https://bleepr.netlify.app/)
 
 A retro-inspired social media app built with the **MERN stack**.
 
