@@ -1,6 +1,5 @@
 
 # Hi, I’m Randall 
- ![GA Badge](https://drive.google.com/file/d/1VutZtYt3svh4FnNOTqA9LRsFvyAVoY72/view?usp=drive_link)
 
 I’m a **full-stack software engineer** with a background in teaching and a passion for building intuitive, user-focused applications. Before transitioning into engineering, I taught Computer Science, Media Arts, and English—an experience that honed my problem-solving, iteration, and collaboration skills.
 
