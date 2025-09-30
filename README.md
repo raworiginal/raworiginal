@@ -11,7 +11,7 @@ Now, I design and develop applications across the stack, with an emphasis on cle
 
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend:** Node.js, Express, Flask, Django
-- **Databases:** PostgreSQL, MongoDB,
+- **Databases:** PostgreSQL, MongoDB
 - **Other Tools & Practices:** Git/GitHub, REST APIs, JWT/Auth, Agile, Test-driven development
 
 ---
